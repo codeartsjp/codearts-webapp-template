@@ -1,0 +1,16 @@
+# すべての環境でLFを使用
+* text=auto eol=lf
+
+# バイナリファイル
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.mp3 binary
+*.wav binary
+*.ogg binary
+*.woff binary
+*.woff2 binary
+*.ttf binary
+*.eot binary
